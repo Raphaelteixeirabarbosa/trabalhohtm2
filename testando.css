@@ -1,0 +1,62 @@
+corpo , html 
+{
+    margem : 0 ;
+    preenchimento : 0 ;    
+}
+            
+cabeçalho  
+{
+    largura : 100 % ;
+    altura : 70 px ;
+    cor de fundo : # 282828 ;
+}
+
+h1 
+{
+    posição : absoluta ;
+    preenchimento : 3 px ;
+    flutuar : esquerda ;
+    margem esquerda : 2 % ;
+    margem superior : 10 px ;
+    font-family : ' Alfa Slab One ' , cursivo;
+    cor : # 39ca74 ;
+}
+           
+período 
+{
+    cor : #ffffff ;
+}
+            
+ul 
+{
+    largura : auto ;
+    flutuar : certo ;
+    margem superior : 8 px ;
+}
+            
+li 
+{
+    display : bloco inline ;
+    preenchimento : 15 px  30 px ;
+}
+            
+uma 
+{
+    texto-alinhar : centro ;
+    cor : #ffffff ;
+    text-decoration : nome;
+    font-family : ' Open Sans ' , sem serifas ;
+    tamanho da fonte : 1,2 vw ;
+}
+            
+a : hover 
+{
+    cor : # F0c33O;
+    transição : o. 5 s ;
+}
+            
+img 
+{
+    largura : 100 % ;
+    margem superior : -16 px ;
+}

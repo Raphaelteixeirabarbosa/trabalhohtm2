@@ -1,0 +1,23 @@
+<! DOCTYPE html>
+< html  lang = " pt " >
+    < cabeça >
+        < title > Navbar </ title >
+        < meta  charset = " UTF-8 " >
+        < link  rel = " stylesheet "  type = " text / css "  href = " teste.css " >
+        < link  href = " https://fonts.googleapis.com/css? family = Alfa + Laje + Um | Abrir + Sans "  rel = " folha de estilo " >
+    </ head >
+    < header >
+        < h1 > Titulo < span > Qualquer </ span > </ h1 >
+            < nav >
+            < ul >
+                    < Li > < a  href = " # " > Início </ a > </ li >
+                    < Li > < a  href = " # " > Carteiras </ a > </ li >
+                    < Li > < a  href = " # " > Sobre </ a > </ li >
+                    < Li > < a  href = " # " > Contatos </ a > </ li >
+            </ ul >
+            </ nav >
+    </ header >
+    < body >
+        < img  src = " paisagem.jpg " >
+    </ body >
+</ html >
